@@ -1,10 +1,6 @@
 # 🚀 TB2 - AWS | Acesso a Recursos de Rede em Sistemas Distribuídos
 
-<div align="center">
-
 Projeto acadêmico desenvolvido para a disciplina de **Sistemas Distribuídos** com foco em desenvolvimento backend, segurança, banco de dados e deploy em nuvem utilizando AWS.
-
-</div>
 
 ---
 
@@ -18,8 +14,6 @@ A aplicação foi hospedada na **AWS EC2**, com configuração de segurança, au
 
 # 🛠️ Tecnologias Utilizadas
 
-<div align="center">
-
 | Tecnologia | Utilização |
 |------------|------------|
 | **Node.js** | Backend da aplicação |
@@ -30,8 +24,6 @@ A aplicação foi hospedada na **AWS EC2**, com configuração de segurança, au
 | **AWS EC2** | Hospedagem da aplicação |
 | **SSH** | Acesso remoto seguro |
 | **.env** | Variáveis de ambiente |
-
-</div>
 
 ---
 
@@ -92,19 +84,9 @@ Todos os endpoints foram testados utilizando o **Postman**, garantindo o funcion
 
 <div align="center">
 
-| Informação | Detalhe |
-|------------|---------|
-| **Disciplina** | Sistemas Distribuídos |
-| **Instituição** | UNASP |
-| **Semestre** | 7º Semestre |
-| **Período** | 2025.2 |
+**Disciplina:** Gerenciamento de Banco de Dados  
+**Instituição:** Unasp 
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Projeto desenvolvido para fins acadêmicos
+**Período:** 2026.1
 
 </div>

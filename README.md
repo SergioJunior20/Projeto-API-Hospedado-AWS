@@ -80,8 +80,6 @@ Todos os endpoints foram testados utilizando o **Postman**, garantindo o funcion
 
 ---
 
-# 📚 Informações Acadêmicas
-
 <div align="center">
 
 **Disciplina:** Gerenciamento de Banco de Dados  

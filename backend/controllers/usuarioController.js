@@ -133,15 +133,7 @@ exports.login = async (req, res) => {
       { expiresIn: '1h' }
     );
 
-    res.json({
-      token,
-      usuario: {
-        _id: usuario._id,
-        nome: usuario.nome,
-        idade: usuario.idade,
-        email: usuario.email
-      }
-    });
+    res.json({ token });
 
   } catch (err) {
     res.status(500).json({
